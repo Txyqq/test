@@ -1,0 +1,4 @@
+<!--pages/my/integral.wxml-->
+<view class="img">
+<image src="https://e41.oss-cn-beijing.aliyuncs.com/chengren_miniAPP/integral.png"></image>
+</view>
